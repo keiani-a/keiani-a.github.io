@@ -1,0 +1,120 @@
+body {
+    margin: 0px;
+    background-color: 201E1F;
+}
+
+a {
+    display: flex;
+    padding: 3px;
+}
+
+.title {
+    display: flex;
+    background-color: blue;
+    height: 100vh;
+    width: auto;
+    justify-content: center;
+    align-items: center;
+    font-size: 20pt;
+    text-align: left;
+    font-family: 'Titan One', cursive;
+    color: white;
+}
+
+.nav {
+    display: flex;
+    justify-content: center;
+    margin: 3px;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+
+}
+
+.wire {
+    display: flex;
+    padding: 10px;
+}
+
+.wireframe {
+    display: flex;
+    background-color: gray;
+    height: 100vh;
+    width: auto;
+    justify-content: center;
+    align-items: center;
+    font-size: large;
+    text-align: left;
+    font-family: 'Staatliches', cursive;
+    color: white;;
+}
+
+.sitecon {
+    display: flex;
+    padding: 10px;
+}
+
+
+.concept {
+    display: flex;
+    background-color: white;
+    height: 100vh;
+    width: auto;
+    justify-content: center;
+    align-items: center;
+    font-size: large;
+    text-align: left;
+    font-family: 'Staatliches', cursive;
+    color: black;
+}
+
+.map{
+    display: flex;
+    background-color: #201E1F;
+    height: 100vh;
+    width: auto;
+    justify-content: center;
+    align-items: center;
+    font-size: large;
+    text-align: left;
+    font-family: 'Staatliches', cursive;
+    color: white;
+    padding: 20px;
+}
+
+.design {
+    display: flex;
+    background-color: white;
+    height: 100vh;
+    width: auto;
+    justify-content: center;
+    align-items: center;
+    font-size: large;
+    text-align: left;
+    font-family: 'Staatliches', cursive;
+    color: black;
+    padding: 20px;
+}
+
+.tools {
+    display: flex;
+    background-color: #201E1F;
+    height: 100vh;
+    width: auto;
+    justify-content: center;
+    align-items: center;
+    font-size: large;
+    text-align: left;
+    font-family: 'Staatliches', cursive;
+    color: white;
+}
+
+p {
+    font-size: 12pt;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.images {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
